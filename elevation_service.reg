@@ -1,0 +1,18 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Bomgar]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Bomgar\BgElvSvc]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Bomgar\BgElvSvc\Hash]
+ "SHA256:64BD678949E09C98097CB4698465DEAD3C47546A0169E6F0D2E5FA6D1378492D"="bomgar-scc.x64-0:soclean-19.2.5"
+ "SHA256:89A02E1D5B40F1C31B7CE7FC7B8D9AE39D7A9D0FAEBDB4B7C3EEF8318A81EB9B"="bomgar-scc.x86-0:soclean-19.2.5"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Bomgar\BgElvSvc\Hash\bomgar-scc.x64-0:soclean-19.2.5]
+ "parameter0"="-elevate"
+ "parameter1"="-elevate user"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Bomgar\BgElvSvc\Hash\bomgar-scc.x86-0:soclean-19.2.5]
+ "parameter0"="-elevate"
+ "parameter1"="-elevate user"
+
